@@ -1,0 +1,311 @@
+Customer_ID,Tenure_Months,Monthly_Charges,Contract,Internet_Service,Churn
+5276,37.0,45.37,Two Year,Dsl,No
+5178,30.0,46.12,two year ,Dsl,Yes
+5017,10.0, 21.59 ,one year ,No,No
+5049,32.0,$83.24,Two Year,Fiber,No
+5283,41.0,$17.64,one year ,no ,No
+5050,3.0,39.48,Month-To-Month,Dsl,Yes
+5034,71.0,31.32, MONTH-TO-MONTH,no ,No
+5198,3.0,73.4, TWO YEAR,fiber ,Yes
+5269,7.0,N/A,one year ,fiber ,Yes
+5054,34.0,76.11,Month-To-Month,Fiber,No
+5274,70.0,42.71,One Year,dsl ,No
+5051,11.0, 67.54 ,Two Year, FIBER,No
+5048,4.0, 41.01 ,Month-To-Month, DSL,Yes
+5156,65.0,$44.21, MONTH-TO-MONTH,Dsl,No
+5249,7.0,82.98,Two Year,Fiber,Yes
+5272,32.0,27.75,one year ,No,No
+5043,61.0,25.64,month-to-month ,no ,No
+5057,59.0,$89.52,Two Year,Fiber,No
+5107,,19.52, MONTH-TO-MONTH,no ,No
+5171,69.0,$45.73, TWO YEAR,Dsl,No
+5240,58.0,$15.8,one year ,No,No
+5109,43.0,43.89,One Year,Dsl,No
+5155,44.0,45.72, ONE YEAR,Dsl,No
+5179,16.0,N/A,Month-To-Month,Fiber,No
+5168,13.0,57.13,Month-To-Month,Dsl,Yes
+5183,69.0, 47.93 ,one year ,Dsl,No
+5063,27.0,47.61, MONTH-TO-MONTH,Dsl,Yes
+5227,30.0,55.2,month-to-month ,dsl ,Yes
+5099,44.0,73.11, TWO YEAR,fiber ,No
+5100,62.0,42.09,month-to-month ,Dsl,No
+5025,52.0,79.58,Month-To-Month,fiber ,No
+5289,27.0,73.6, ONE YEAR,Fiber,No
+5287,68.0, 71.41 , MONTH-TO-MONTH,Fiber,No
+5132,18.0,29.26,Month-To-Month,no ,Yes
+5091,3.0,$17.65,Month-To-Month,No,Yes
+5195,52.0,71.68, MONTH-TO-MONTH,Fiber,Yes
+5085,, 78.31 ,Month-To-Month,fiber ,Yes
+5160,11.0,$39.2,Two Year,dsl ,No
+5146,, 80.92 , TWO YEAR,Fiber,Yes
+5032,,$46.62,two year ,Dsl,Yes
+5224,65.0,$26.85, TWO YEAR, NO,No
+5140,16.0,N/A, TWO YEAR,Fiber,Yes
+5044,12.0,$88.37,One Year,fiber ,No
+5216,49.0,N/A,Month-To-Month,Dsl,No
+5297,12.0,$78.08,One Year,Fiber,Yes
+5250,52.0,51.14,one year , DSL,No
+5280,64.0,43.65,Month-To-Month,dsl ,No
+5022,22.0,$73.49,One Year,Fiber,Yes
+5213,5.0,45.4,Month-To-Month,Dsl,Yes
+5212,25.0,42.05,Month-To-Month, DSL,No
+5118,70.0,72.98,Month-To-Month,Fiber,Yes
+5164,66.0,81.1,one year , FIBER,No
+5047,9.0, 20.24 ,Month-To-Month,No,Yes
+5089,51.0,76.15, ONE YEAR,Fiber,No
+5175,5.0, 86.33 , TWO YEAR,Fiber,No
+5210,62.0,44.81,One Year, DSL,No
+5202,69.0, 42.85 ,month-to-month , DSL,No
+5292,66.0, 31.55 ,Month-To-Month,No,No
+5067,7.0, 44.33 ,Two Year,Dsl,Yes
+5193,4.0,78.87,One Year, FIBER,Yes
+5061,,74.48,month-to-month ,fiber ,No
+5234,58.0,$82.73,month-to-month ,Fiber,No
+5299,39.0,25.41,One Year,no ,No
+5238,30.0, 66.44 ,one year ,Fiber,No
+5268,20.0,77.48,Month-To-Month,fiber ,Yes
+5177,70.0, 30.45 , MONTH-TO-MONTH,no ,No
+5040,71.0,17.98,Month-To-Month,No,No
+5270,68.0,$82.23,month-to-month ,Fiber,No
+5278,38.0,20.28,month-to-month , NO,Yes
+5026,19.0,$78.57,Month-To-Month,Fiber,No
+5235,46.0, 48.92 , MONTH-TO-MONTH,Dsl,Yes
+5062,36.0,$72.69, MONTH-TO-MONTH,Fiber,Yes
+5052,37.0, 19.78 ,One Year,no ,Yes
+5154,68.0,43.33, ONE YEAR,Dsl,No
+5116,27.0,$83.79,Month-To-Month, FIBER,Yes
+5128,11.0,$84.6, ONE YEAR, FIBER,Yes
+5012,63.0,$87.93,two year ,Fiber,No
+5252,17.0,86.29,two year ,Fiber,Yes
+5068,14.0, 82.14 , ONE YEAR,Fiber,No
+5069,69.0,45.63,Month-To-Month,Dsl,No
+5133,4.0,$42.07,month-to-month ,Dsl,Yes
+5201,30.0,1500, MONTH-TO-MONTH,Fiber,Yes
+5220,37.0, 87.21 ,Month-To-Month, FIBER,Yes
+5203,8.0,85.59, MONTH-TO-MONTH,fiber ,Yes
+5103,46.0,$39.26, MONTH-TO-MONTH,Dsl,No
+5090,46.0,83.31,Two Year,Fiber,Yes
+5158,41.0,79.87, MONTH-TO-MONTH, FIBER,No
+5265,71.0,75.05,month-to-month ,Fiber,No
+5097,52.0,$39.96,month-to-month ,dsl ,No
+5300,68.0,$55.54,two year ,dsl ,No
+5007,60.0,76.33,Month-To-Month,fiber ,Yes
+5254,15.0,21.44,Month-To-Month, NO,No
+5162,14.0,83.99,Month-To-Month,Fiber,No
+5275,12.0, 47.62 , MONTH-TO-MONTH,dsl ,Yes
+5139,68.0,81.9, ONE YEAR,fiber ,No
+5038,45.0,$88.94,Month-To-Month,fiber ,No
+5258,13.0,$78.54,Two Year,Fiber,Yes
+5120,42.0,88.69, TWO YEAR, FIBER,No
+5072,, 87.42 ,Month-To-Month, FIBER,No
+5019,9.0,80.55,Month-To-Month,Fiber,Yes
+5260,25.0,$80.5,Two Year,Fiber,No
+5094,7.0,N/A,One Year,Fiber,Yes
+5163,54.0,15.58,Month-To-Month,No,No
+5003,49.0,$21.34,One Year, NO,Yes
+5096,39.0, 42.21 , MONTH-TO-MONTH,Dsl,Yes
+5108,28.0,45.89,One Year,dsl ,No
+5024,20.0,93.68, MONTH-TO-MONTH,fiber ,Yes
+5004,-3.0,$78.12, ONE YEAR,fiber ,No
+5056,66.0,81.87,Month-To-Month,Fiber,Yes
+5192,54.0,$75.76, MONTH-TO-MONTH,Fiber,No
+5141,1.0,$73.39,Month-To-Month,Fiber,Yes
+5076,1.0,71.26,Month-To-Month,Fiber,Yes
+5185,41.0,67.2,Two Year,Fiber,No
+5084,63.0,$69.75, TWO YEAR,Fiber,No
+5285,60.0,43.68,Two Year,Dsl,No
+5027,71.0, 83.19 ,One Year,Fiber,Yes
+5281,55.0,31.69,One Year,Dsl,No
+5046,44.0,49.5,One Year, DSL,No
+5194,2.0,87.13,Month-To-Month, FIBER,Yes
+5124,46.0,$27.63,Two Year, NO,No
+5186,34.0,$85.4,month-to-month , FIBER,Yes
+5182,3.0,22.21,month-to-month ,no ,No
+5029,34.0,$73.32,One Year,Fiber,No
+5157,69.0, 38.15 ,month-to-month ,Dsl,Yes
+5135,59.0, 43.32 ,One Year,dsl ,No
+5187,55.0,49.19,One Year, DSL,Yes
+5018,57.0,N/A,One Year,Fiber,No
+5102,26.0,74.13, MONTH-TO-MONTH,Fiber,Yes
+5267,10.0,82.35, TWO YEAR,Fiber,Yes
+5086,37.0, 44.46 ,Month-To-Month,dsl ,Yes
+5230,1.0,25.99,Two Year,No,No
+5080,11.0,36.85,Two Year,Dsl,No
+5075,,$82.46,One Year,Fiber,Yes
+5041,34.0,76.83,Month-To-Month,Fiber,Yes
+5298,37.0,N/A,One Year, DSL,Yes
+5242,2.0, 43.63 ,Two Year, DSL,No
+5197,58.0,76.16,two year ,Fiber,No
+5200,9.0,$21.42,Month-To-Month, NO,No
+5167,4.0,58.88, TWO YEAR,Dsl,Yes
+5222,55.0,58.63,Month-To-Month,Dsl,Yes
+5248,37.0,79.84, MONTH-TO-MONTH,Fiber,Yes
+5228,67.0,68.27,Month-To-Month,Fiber,No
+5150,10.0,$82.76,Month-To-Month,Fiber,No
+5245,35.0,39.53, MONTH-TO-MONTH,Dsl,No
+5291,51.0,$74.2,One Year,fiber ,No
+5035,,75.93,Two Year,Fiber,No
+5085,, 78.31 ,Month-To-Month,fiber ,Yes
+5226,11.0,33.13,Two Year,No,Yes
+5088,61.0,45.55,Month-To-Month, DSL,No
+5098,37.0,$84.71,One Year,fiber ,No
+5115,29.0,$39.68, MONTH-TO-MONTH,Dsl,Yes
+5199,65.0,52.56,Month-To-Month,Dsl,Yes
+5223,57.0,N/A,Two Year,Dsl,No
+5277,68.0,22.3,Month-To-Month, NO,No
+5241,69.0, 50.75 ,one year ,Dsl,No
+5105,8.0,32.4,Month-To-Month,Dsl,Yes
+5237,61.0,$28.16,Two Year,No,No
+5010,22.0,91.07,month-to-month , FIBER,Yes
+5130,32.0,44.49,Two Year,Dsl,No
+5202,69.0, 42.85 ,month-to-month , DSL,No
+5078,999.0,20.44, ONE YEAR,No,No
+5256,,$51.35,Two Year,Dsl,No
+5055,58.0,82.23,One Year,fiber ,No
+5020,34.0, 77.39 , TWO YEAR, FIBER,No
+5290,30.0,$32.75,Month-To-Month,Dsl,Yes
+5152,61.0,$77.38,Month-To-Month,Fiber,Yes
+5002,45.0,81.78,Two Year, FIBER,No
+5169,27.0,78.68,Month-To-Month,fiber ,No
+5131,26.0,23.96,One Year,no ,No
+5001,68.0,70.94,Month-To-Month,fiber ,No
+5101,49.0,N/A,Month-To-Month,fiber ,Yes
+5172,46.0,$45.61,month-to-month ,Dsl,No
+5221,38.0, 83.53 ,Month-To-Month,Fiber,Yes
+5279,64.0,$34.15,One Year,Dsl,No
+5144,22.0,84.64,One Year,fiber ,Yes
+5196,27.0,87.15,Two Year,Fiber,No
+5060,37.0, 40.46 ,Month-To-Month,Dsl,No
+5149,38.0, 79.33 , ONE YEAR,fiber ,No
+5013,65.0, 84.23 ,two year ,fiber ,No
+5122,43.0, 51.96 ,Month-To-Month,Dsl,Yes
+5137,29.0,22.66,Month-To-Month,No,No
+5253,14.0,80.11,Month-To-Month,Fiber,Yes
+5273,15.0,$18.03, MONTH-TO-MONTH,no ,Yes
+5058,45.0,78.8,Two Year,Fiber,No
+5123,32.0, 19.12 , MONTH-TO-MONTH,no ,No
+5261,23.0, 16.6 , ONE YEAR,No,No
+5231,41.0,49.74,Month-To-Month,Dsl,No
+5064,18.0,76.13,One Year, FIBER,No
+5286,31.0,$81.64,Month-To-Month, FIBER,Yes
+5264,41.0,82.77,Month-To-Month,Fiber,No
+5294,5.0, 48.91 ,Two Year,Dsl,Yes
+5125,39.0, 76.39 ,Month-To-Month,Fiber,Yes
+5016,59.0, 79.66 ,Month-To-Month,Fiber,No
+5251,17.0,79.15,Month-To-Month, FIBER,Yes
+5011,21.0,900,month-to-month ,Fiber,Yes
+5212,25.0,42.05,Month-To-Month, DSL,No
+5239,61.0, 83.8 , TWO YEAR,fiber ,No
+5170,63.0,$84.44, ONE YEAR,Fiber,No
+5037,50.0,76.88, MONTH-TO-MONTH,fiber ,No
+5243,62.0, 74.67 ,One Year, FIBER,No
+5005,42.0,79.56, ONE YEAR, FIBER,No
+5214,42.0,$45.18,month-to-month , DSL,Yes
+5093,34.0,$85.87,Month-To-Month,Fiber,Yes
+5117,41.0,41.53,Two Year, DSL,No
+5059,32.0,$35.8,Two Year,Dsl,No
+5023,25.0,19.76,One Year,No,No
+5082,19.0,$45.63, ONE YEAR,dsl ,Yes
+5053,69.0,13.01,one year ,no ,No
+5288,,69.51, ONE YEAR,Fiber,No
+5014,1.0,40.94,Month-To-Month,Dsl,Yes
+5225,71.0,78.09,Month-To-Month, FIBER,Yes
+5161,40.0, 20.55 ,Month-To-Month,No,No
+5073,52.0,47.55,One Year, DSL,Yes
+5178,30.0,46.12,two year ,Dsl,Yes
+5021,58.0,44.5,Month-To-Month,Dsl,No
+5112,11.0,49.79,One Year,Dsl,Yes
+5036,,80.5,month-to-month ,Fiber,Yes
+5071,63.0, 80.23 ,two year ,Fiber,No
+5208,38.0,41.13,Month-To-Month,dsl ,Yes
+5121,32.0, 23.32 ,One Year,no ,No
+5217,62.0,86.68,Month-To-Month, FIBER,No
+5030,36.0,$43.76, MONTH-TO-MONTH,Dsl,Yes
+5266,25.0,$47.15, ONE YEAR, DSL,No
+5189,34.0, 80.41 , MONTH-TO-MONTH, FIBER,Yes
+5284,42.0,40.71,one year , DSL,No
+5070,50.0,$83.79,One Year,fiber ,No
+5181,51.0,84.42,One Year,fiber ,Yes
+5151,61.0,N/A, ONE YEAR,No,No
+5247,68.0,12.6,one year ,No,No
+5293,7.0,73.66,Month-To-Month,Fiber,Yes
+5244,45.0,47.24,One Year, DSL,No
+5166,40.0,86.81,Two Year,fiber ,No
+5127,68.0,$94.92,Month-To-Month,Fiber,Yes
+5295,18.0,N/A,Month-To-Month, NO,No
+5219,65.0,$50.31,two year ,dsl ,No
+5135,59.0, 43.32 ,One Year,dsl ,No
+5065,71.0,10.14,One Year,No,No
+5263,62.0,77.6,Two Year,Fiber,No
+5215,20.0, 76.61 ,One Year, FIBER,Yes
+5271,16.0,$55.66,One Year,Dsl,No
+5287,68.0, 71.41 , MONTH-TO-MONTH,Fiber,No
+5129,40.0,76.99, ONE YEAR,fiber ,No
+5083,,$72.73, TWO YEAR,Fiber,No
+5262,68.0,N/A,One Year,Dsl,No
+5176,27.0, 44.71 ,Month-To-Month,Dsl,Yes
+5143,2.0,34.58,One Year, NO,No
+5134,29.0,$34.55,Month-To-Month,Dsl,Yes
+5173,42.0,$31.29,One Year,no ,No
+5077,44.0,$44.01,One Year,Dsl,No
+5033,37.0,80.73,Two Year, FIBER,No
+5032,,$46.62,two year ,Dsl,Yes
+5233,53.0,$79.57, ONE YEAR,Fiber,No
+5236,10.0, 44.53 ,Month-To-Month,dsl ,Yes
+5249,7.0,82.98,Two Year,Fiber,Yes
+5142,48.0,85.21,month-to-month ,Fiber,Yes
+5153,35.0,46.84,one year ,dsl ,Yes
+5188,39.0,80.89,Month-To-Month,fiber ,Yes
+5174,41.0,$37.08,Two Year,Dsl,No
+5282,53.0,82.23,Month-To-Month, FIBER,No
+5039,25.0,10.29,Month-To-Month,No,No
+5015,36.0,30.66,One Year, NO,No
+5095,,73.95,Month-To-Month,fiber ,Yes
+5017,10.0, 21.59 ,one year ,No,No
+5218,26.0,$23.28,One Year,no ,No
+5079,48.0,46.25,Two Year, DSL,No
+5092,53.0,79.77,Month-To-Month,fiber ,No
+5184,63.0,$41.87,Month-To-Month, DSL,No
+5191,32.0,42.26,Month-To-Month,dsl ,No
+5218,26.0,$23.28,One Year,no ,No
+5110,23.0,34.36, MONTH-TO-MONTH,Dsl,Yes
+5136,7.0,$22.09,Month-To-Month,No,Yes
+5246,57.0,$74.52, MONTH-TO-MONTH,fiber ,Yes
+5148,48.0,74.44,Two Year,Fiber,No
+5106,,36.33, MONTH-TO-MONTH,Dsl,No
+5259,29.0,$44.04, MONTH-TO-MONTH,dsl ,No
+5296,31.0,46.79,Month-To-Month,Dsl,No
+5180,18.0,$46.66, MONTH-TO-MONTH, DSL,Yes
+5165,18.0,$38.64,month-to-month ,Dsl,Yes
+5111,17.0,$77.22,month-to-month ,Fiber,No
+5257,8.0,77.95,One Year,Fiber,Yes
+5006,56.0,76.76,Two Year,Fiber,No
+5145,, 46.52 ,One Year, DSL,Yes
+5104,43.0,42.15,month-to-month ,Dsl,No
+5211,49.0,41.78,Month-To-Month,Dsl,Yes
+5042,16.0,48.98,One Year,dsl ,Yes
+5138,69.0,29.9,Month-To-Month, NO,No
+5255,65.0,83.44, MONTH-TO-MONTH, FIBER,No
+5147,7.0,55.72,Two Year,Dsl,No
+5126,49.0,44.06, ONE YEAR,Dsl,No
+5087,67.0,40.69,One Year,Dsl,No
+5031,42.0,50.51,Two Year,Dsl,No
+5066,1.0,84.18,Month-To-Month,Fiber,Yes
+5204,47.0,52.15,Month-To-Month,Dsl,No
+5206,31.0,$24.44, MONTH-TO-MONTH,No,No
+5045,61.0,70.56,Month-To-Month,Fiber,Yes
+5028,32.0,84.25,two year , FIBER,No
+5081,38.0, 54.8 , MONTH-TO-MONTH,dsl ,Yes
+5114,58.0,$44.53,Month-To-Month, DSL,No
+5205,52.0,$77.44,month-to-month ,Fiber,No
+5008,16.0,69.9,Month-To-Month,Fiber,No
+5209,31.0,47.13,Month-To-Month,dsl ,No
+5159,20.0,27.26,Month-To-Month,no ,No
+5113,28.0,$83.34,Month-To-Month,Fiber,No
+5232,54.0,84.42,month-to-month ,Fiber,Yes
+5229,22.0,$16.19, MONTH-TO-MONTH,No,Yes
+5009,4.0,79.82,Month-To-Month,Fiber,Yes
+5074,27.0, 82.35 , ONE YEAR,Fiber,No
+5119,28.0,75.19,Month-To-Month,fiber ,No
+5190,23.0,N/A, MONTH-TO-MONTH,No,Yes
+5207,6.0, 84.28 ,Two Year,Fiber,Yes
