@@ -4,6 +4,8 @@ An Arabic-first, hands-on machine-learning camp that starts with Python foundati
 
 The notebooks are designed for learning by doing: each session combines explanations, visual examples, exercises, and executable code.
 
+Telegram Group: https://t.me/machinelearingcamp
+
 ## What you will learn
 
 - Python fundamentals, functions, data structures, and clean coding
