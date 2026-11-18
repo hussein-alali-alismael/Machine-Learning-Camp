@@ -73,7 +73,7 @@ Machine Learning Camp/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/hussein-alali-alismael/Machine-Learning-Camp.git
 cd "Machine Learning Camp"
 ```
 
